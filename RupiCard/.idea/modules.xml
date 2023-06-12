@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RupiCard.iml" filepath="$PROJECT_DIR$/.idea/RupiCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RupiTest/RupiTest/RupiTest.iml" filepath="$PROJECT_DIR$/RupiTest/RupiTest/RupiTest.iml" />
+    </modules>
+  </component>
+</project>
